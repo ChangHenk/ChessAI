@@ -1,0 +1,121 @@
+
+Robert(White) vs Ashe(Black).
+1.e2e4 2.Ng8f6 3.d2d3 4.b8c7 5.b8c7 6.Nb8c6 7.f2f3 
+XXX won.
+Vivian(White) vs Mandy(Black).
+Sally(White) vs Jordan(Black).
+1.e2e4 
+XXX won.
+Elan(White) vs Crow(Black).
+rrr(White) vs wew(Black).
+1.e2e4 2.c7c6 3.d3d4 4.d2d3 5.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/Chess.py ewe(White) vs qwq(Black).
+1.e2e4 2.c7c6 3.d2d4 
+XXX won.
+gdf(White) vs dfg(Black).
+1.e2e4 2.d7d6 3.d2d4 
+XXX won.
+Urshula(White) vs Cody(Black).
+1.e2e4 2.d7d6 3.c2c3 4.e7e5 5.f2f4 6.h7h6 
+XXX won.
+Ella(White) vs Opera(Black).
+
+XXX won.
+Silly(White) vs Turtle(Black).
+1.e2e4 2.d7d5 3.d2d3 4.e7e6 
+XXX won.
+Tiffiny(White) vs Gordan(Black).
+1.e2e4 2.f7f6 3.d2d4 4.e7e5 
+XXX won.
+Ian(White) vs Anthony(Black).
+Ian(White) vs Anthony(Black).
+1.e2e4 2.Ng8f6 3.d2d3 
+['Ian', 'White'] won.
+Richard(White) vs Frank(Black).
+1.2224 Richard(White) vs Gorge(Black).
+1.e2e4 2.Ng8f6 3.d2d3 4.e7e5 
+Gorge won.
+sdas(White) vs ddddd(Black).
+1.e2e4 white(White) vs black(Black).
+1.e2e4 Green(White) vs Blue(Black).
+1.e2e4 Toyz(White) vs Tommy(Black).
+1.e2e4 Dave(White) vs Vivian(Black).
+1.e2e4 FatBob(White) vs Cody(Black).
+1.e2e4 2.Ng1f3 3.Ng8f6 4.e7e6 
+Cody won.
+Henk(White) vs Cody(Black).
+1.e2e4 Nash(White) vs Curry(Black).
+1.e2e4 Zack(White) vs Xilinx(Black).
+1.e2e4 Bob(White) vs Kirk(Black).
+1.e2e4 2.e7e5 3.e2e4 iu(White) vs bp(Black).
+1.e2e4 2.e7e5 3.f2f3 4.d7d6 
+bp won.
+ssa(White) vs dafa(Black).
+1.e2e4 2.e7e5 3.f2f4 4.f7f6 5.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/Chess.py dggdd(White) vs sadasd(Black).
+1.e2e4 2.e7e5 3.f2f3 4.f7f6 5.f3f4 
+dggdd won.
+Jessie(White) vs Ray(Black).
+1.e2e4 2.e7e6 
+Ray won.
+Cody(White) vs Tiffiny(Black).
+1.e2e4 wert(White) vs asdaa(Black).
+1.e2e4 2.e7e5 3.f2f3 4.f7f6 5.f3f4 6.f6f5 
+asdaa won.
+aaa(White) vs ddd(Black).
+
+ddd won.
+Tony(White) vs Frank(Black).
+e2e4 1.e7e6 f2f4 2.q7q6 Lenna(White) vs Polly(Black).
+e2e4 1.e7e6 f2f4 2.a7a5 e4e5 3.f7f6 
+Polly won.
+Rich(White) vs Selina(Black).
+0.e2e4 e7e5 1.a2a3 a7a5 2.a3a4 b2b4 3.b7b6 
+Selina won.
+hhe(White) vs asd(Black).
+1.e2e4 e7e5 2.a2a3 a7a6 3.b2b4 b7b6 4.a3a4 b6b5 5.a4a5 
+asd won.
+Oliver(White) vs Paul(Black).
+1.e2e Oliver(White) vs Berry(Black).
+1.e2e4 e7e5 2.a2a3 h7h6 
+Oliver won.
+Rick(White) vs Morty(Black).
+1.e2e3 e7e6 2.e3e4 e6e5 3.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/Chess.py Terry(White) vs Sarah(Black).
+1.e2e4 e7e5 2.e2e4 Reddit(White) vs Sally(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 yuih(White) vs hanni(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 3.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/play.py Little(White) vs Big(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 3.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/Chess.py Ella(White) vs Vivi(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 3.f2f3 f5f4 4.& C:/Python39/python.exe c:/Users/smart/Desktop/class/ai/chess/play.py GGG(White) vs SSS(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 
+GGG won.
+Read(White) vs Dear(Black).
+1.e2e4 f7f5 2.e4e5 e7e6 3.f2f3 a7a5 4.b2b4 a5a4 5.a2a3 
+Dear won.
+Tesla(White) vs Quesra(Black).
+1.e2e4 e7e5 2.e4e5 
+Tesla won.
+Betty(White) vs Jessimin(Black).
+1.e2e4 f7f5 2.e4e5 f5f4 3.a2a4 e7e6 4.f2f3 
+Betty won.
+tttg(White) vs jjggj(Black).
+1.e2e4 ghjff(White) vs ggggjkhjh(Black).
+1.e2e4 tye(White) vs huihp(Black).
+1.e2e4 key Richard(White) vs Eric(Black).
+1.e2e4 e7e6 2.Ng1f3 Write(White) vs Black(Black).
+1.Ng1f3 Telle(White) vs fDsaa(Black).
+1.e2e4 Ng8f6 Apple(White) vs Banana(Black).
+1.Ng1f3 asda(White) vs cvdvs(Black).
+1.Ng1f3 Tekew(White) vs Fsdos(Black).
+1.Ng1f3 Ng8f6 Fidlew(White) vs Alds(Black).
+1.Ng1f3 Ng8f6 2.Nf3e5 Nf6h5 3.Nb1c3 Nb8c6 4.Nc3d5 Ne5c4 5.Nd5e3 
+Fidlew won.
+kjjkl(White) vs chfgh(Black).
+1.e2e4 
+kjjkl won.
+TTTT(White) vs EEEE(Black).
+1.e2e4 h7h5 2.Qd1f3 Rh8h6 3.Bf1a6 TTTT(White) vs EEEE(Black).
+1.e2e4 h7h5 2.Qd1f3 Rh8h6 
+EEEE won.
+Ella(White) vs Crist(Black).
+1.e2e4 f7f5 2.Qd1g4 Bg8f6 3.Bf1c4 Ella(White) vs Crist(Black).
+1.e2e4 f7f5 2.Qd1f3 Ke8f7 Ella(White) vs Crist(Black).
+1.e2e4 h7h5 2.Bf1c4 Rh8h6 3.Qd1f3 Ng8f6 4.Ke1e2 Nf6g4 5.Qf3a3 Rh6a6 6.Ph2h3 Hh5h4 7.Ng1f3 Pg7g5 8.Rh1d1 Bf8h6 
+Crist won.

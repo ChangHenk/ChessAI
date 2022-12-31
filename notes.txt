@@ -1,0 +1,22 @@
+人機介面可用
+python / C#
+
+網頁版本可用
+html/css 搭配 javascript/php/python 腳本
+
+
+
+
+
+C#
+可以參考: https://github.com/tony11306/Chess-Game
+
+
+
+
+AI
+走法判斷依據?
+
+1.根據勝率決定走法
+需有資料庫or文字檔(excel)儲存每次最新的勝率
+
